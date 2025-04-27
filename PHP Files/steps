@@ -1,0 +1,10 @@
+Steps to Run the Complete Program
+    Start XAMPP (Apache & MySQL).
+    Create the database vpmsdb in phpMyAdmin
+    Import SQL file(vpmsdb.sql)
+    Place the PHP files in C:\xampp\htdocs\
+    Run the project in your browser:
+    http://localhost/KJVEHICLE/index.php
+    Admin:
+    username:admin
+    password:admin123
