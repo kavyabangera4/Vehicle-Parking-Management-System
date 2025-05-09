@@ -41,7 +41,7 @@ vehicles, reducing manual effort and minimizing errors.
 4.Run the project:
 
 Open your browser and go to:
-```bash
+
 http://localhost/Vehicle-Parking-Management-System/index.php
 
 
