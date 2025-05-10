@@ -25,7 +25,7 @@ vehicles, reducing manual effort and minimizing errors.
 1. Clone the repository:
    ```bash
    git clone https://github.com/kavyabangera4/Vehicle-Parking-Management-System.git
-   cd project-name
+   cd Vehicle-Parking-Management-System
    
 2.Set up the database:
 
