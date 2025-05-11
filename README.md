@@ -21,12 +21,12 @@ vehicles, reducing manual effort and minimizing errors.
 - **Database**: MySQL
 
 ## 🚀 How to Run
- 1. Clone the repository:
+1. Clone the repository:
    ```bash
    git clone https://github.com/kavyabangera4/Vehicle-Parking-Management-System.git
    cd Vehicle-Parking-Management-System
    ```
- 2.Set up the database:
+2.Set up the database:
 
    -Open phpMyAdmin or any MySQL database tool.
    -Create a new database.
