@@ -26,7 +26,7 @@ vehicles, reducing manual effort and minimizing errors.
    ```bash
    git clone https://github.com/kavyabangera4/Vehicle-Parking-Management-System.git
    cd Vehicle-Parking-Management-System
-   
+   ```
 2.Set up the database:
 
    -Open phpMyAdmin or any MySQL database tool.
