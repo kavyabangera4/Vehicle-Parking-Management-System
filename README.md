@@ -1,11 +1,11 @@
 # Vehicle Parking Management System
-The Vehicle Parking Management System is a web-based application developed using
+The **Vehicle Parking Management System** is a web-based application developed using
 HTML, CSS, and PHP to streamline the process of parking space management. Efficient
 parking management is essential in urban areas to optimize space usage and ensure smooth
 vehicle movement. This system automates the process of tracking incoming and outgoing
 vehicles, reducing manual effort and minimizing errors.
 
-## Features
+## **Features**
 
 - Admin Dashboard
 - Add/View Incoming & Outgoing Vehicles
@@ -16,9 +16,9 @@ vehicles, reducing manual effort and minimizing errors.
 
 ## Technologies Used
 
-- Frontend: HTML, CSS
-- Backend: PHP
-- Database: MySQL
+- **Frontend**: HTML, CSS
+- **Backend**: PHP
+- **Database**: MySQL
 
 ## 🚀 How to Run
 1. Clone the repository:
@@ -26,18 +26,18 @@ vehicles, reducing manual effort and minimizing errors.
    git clone https://github.com/kavyabangera4/Vehicle-Parking-Management-System.git
    cd Vehicle-Parking-Management-System
    ```
-2.Set up the database:
+   2.Set up the database:
 
    -Open phpMyAdmin or any MySQL database tool.
    -Create a new database.
    -Import the SQL file located in the SQL/ folder
 
-3.Start a local server:
+   3.Start a local server:
 
    -Use XAMPP.
    -Place the project folder inside the htdocs (for XAMPP).
 
-4.Run the project:
+   4.Run the project:
 
    Open your browser and go to:
    ```bash
