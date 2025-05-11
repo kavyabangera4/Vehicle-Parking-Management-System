@@ -26,18 +26,18 @@ vehicles, reducing manual effort and minimizing errors.
    git clone https://github.com/kavyabangera4/Vehicle-Parking-Management-System.git
    cd Vehicle-Parking-Management-System
    ```
-   2.Set up the database:
+ 2.Set up the database:
 
    -Open phpMyAdmin or any MySQL database tool.
    -Create a new database.
    -Import the SQL file located in the SQL/ folder
 
-   3.Start a local server:
+ 3.Start a local server:
 
    -Use XAMPP.
    -Place the project folder inside the htdocs (for XAMPP).
 
-   4.Run the project:
+ 4.Run the project:
 
    Open your browser and go to:
    ```bash
